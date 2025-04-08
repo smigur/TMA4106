@@ -1,7 +1,5 @@
 #include "RandomDistribution.h"
 
-// File is mostly AI-generated, with tweaks by human developer:
-
 // Initialize static members
 std::vector<std::string> RandomDistribution::distributionNames_;
 std::unordered_map<std::string, std::unique_ptr<RandomDistribution>> RandomDistribution::distributionMap_;
