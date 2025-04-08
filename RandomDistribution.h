@@ -1,7 +1,6 @@
 #ifndef RANDOM_GENERATOR_H
 #define RANDOM_GENERATOR_H
 
-// File is generally AI-generated, with human tweaks
 
 #include <vector>
 #include <string>
