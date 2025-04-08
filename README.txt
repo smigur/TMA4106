@@ -38,6 +38,3 @@ Knappen "Generate histogram" åpner et SimulationWindow med et histogram av data
 SimulationWindow:
 Et vindu som inneholder et histogram av dataene i en gitt fil, med et gitt antall stolper. Klassen arver fra AnimationWindow. 
 På grunn av limitasjoner innad i AnimationWindow er det ikke mulig å lukke et vindu som er åpnet av et annet, og heller ikke mulig å lukke det andre. Derfor har "Exit"-knappen exit() som callback, og stopper koden fra å kjøre når den er trykket på. 
-
-Verktøy som er brukt:
-DeepSeek - Lagde RandomDistribution-klassen de forhåndskonfigurerte instansene. Utenom dette er DeepSeek brukt noe til feilsøking og problemløsning, men med en prompt som hindret den fra å skrive kode. 
