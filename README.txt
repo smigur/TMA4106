@@ -1,3 +1,5 @@
+Pre-forord: Dette er første gang jeg laster opp noe slikt på github, og jeg aner ikke hvordan dette *egentlig* skal gjøres. Om det ikke er mulig å kjøre denne shitten uten videre er det bare å si ifra, om jeg får tid kan jeg prøve å finne ut av det. 
+
 FORORD:
 
 Kjære Nome, 
